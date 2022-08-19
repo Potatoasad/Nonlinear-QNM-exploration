@@ -3,3 +3,6 @@ git+https://github.com/Potatoasad/ringdb@GWTC-2.1-update#egg=ringdb
 jupyter
 jupyterlab
 qnm
+matplotlib
+numpy
+scipy
